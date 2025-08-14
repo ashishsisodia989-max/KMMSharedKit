@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "KMMSharedKit",
-            url: "https://github.com/ashishsisodia989-max/KMMSharedKit/releases/download/1.0.2/KMMSharedKit.xcframework.zip",
+            url: "https://github.com/ashishsisodia989-max/KMMSharedKit/releases/download/1.0.3/KMMSharedKit.xcframework.zip",
             checksum: "1624840d1bdbfead48e79d56ac6cfb08bc1de0b38ceec4e427b3760352e91eb8"
         )
     ]
